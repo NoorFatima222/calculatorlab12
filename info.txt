@@ -11,4 +11,17 @@ a = 6;
 b = 4;
 c = a*b;
 Console.WriteLine($"Multiplication: {c}");
+
+Subtraction
+a = 6;
+b = 4;
+c = a+b;
+Console.WriteLine($"Subtraction: {c}");
+Console.ReadLine()
+
+Addition
+a = 6;
+b = 4;
+c = a+b;
+Console.WriteLine($"Sum: {c}");
 Console.ReadLine();
