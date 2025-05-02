@@ -2,6 +2,6 @@ Console.WriteLine("Noor Fatima");
 Console.WriteLine("24-ST-016");
 a = 6;
 b = 4;
-c = a+b;
+c = a*b;
 Console.WriteLine($"Multiplication: {c}");
 Console.ReadLine();
