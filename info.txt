@@ -1,2 +1,7 @@
 Console.WriteLine("Noor Fatima");
 Console.WriteLine("24-ST-016");
+a = 4;
+b = 2;
+c = a/b;
+Console.WriteLine($"Division: {c}");
+Console.ReadLine();
