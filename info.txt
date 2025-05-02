@@ -1,5 +1,25 @@
 Console.WriteLine("Noor Fatima");
 Console.WriteLine("24-ST-016");
+Division
+a = 4;
+b = 2;
+c = a/b;
+Console.WriteLine($"Division: {c}");
+
+Multiplication
+a = 6;
+b = 4;
+c = a*b;
+Console.WriteLine($"Multiplication: {c}");
+
+Subtraction
+a = 6;
+b = 4;
+c = a+b;
+Console.WriteLine($"Subtraction: {c}");
+Console.ReadLine()
+
+Addition
 a = 6;
 b = 4;
 c = a+b;
